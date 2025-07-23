@@ -6,7 +6,7 @@ const Home: React.FC = () => {
       <Header />
       <main className="p-4">
         <h2 className="text-xl font-semibold">Welcome to My Application</h2>
-        <p>This is the home page content.</p>
+        <p>This is the Index/home page content.</p>
       </main>
     </div>
   );
